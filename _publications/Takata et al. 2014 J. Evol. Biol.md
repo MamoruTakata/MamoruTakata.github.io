@@ -1,5 +1,5 @@
 ---
-title: "Asynchronous hatching in the burying beetle, Nicrophorus quadripunctatus, maximizes parental fitness"
+title: "Asynchronous hatching in the burying beetle, *Nicrophorus quadripunctatus*, maximizes parental fitness"
 collection: publications
 permalink: /publication/Takata-et-al-2014-Journal-of-Evolutionary-Biology
 excerpt: ''
