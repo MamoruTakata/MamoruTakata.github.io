@@ -1,5 +1,5 @@
 ---
-title: "Paternity assurance before and after fertilization by male burying beetles (Nicrophorus quadripunctatus)"
+title: "Paternity assurance before and after fertilization by male burying beetles (*Nicrophorus quadripunctatus*)"
 collection: publications
 permalink: /publication/Takata-et-al-2013-Journal-of-Ethology
 excerpt: ''
