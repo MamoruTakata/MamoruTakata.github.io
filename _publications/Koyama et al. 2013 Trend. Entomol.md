@@ -1,5 +1,5 @@
 ---
-title: "Relationship between the size of the parasitoid wasp Dinocampus coccinellae (Hymenoptera: Braconidae) and host ladybird species (Coleoptera: Coccinellidae)"
+title: "Relationship between the size of the parasitoid wasp *Dinocampus coccinellae* (Hymenoptera: Braconidae) and host ladybird species (Coleoptera: Coccinellidae)"
 collection: publications
 permalink: /publication/Koyama-et-al-2013-Trends-in-Entomology
 excerpt: ''
