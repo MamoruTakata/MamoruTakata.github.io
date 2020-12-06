@@ -1,5 +1,5 @@
 ---
-title: "Identification, characterization and full-length sequence analysis of a novel dsRNA virus isolated from the arboreal ant Camponotus yamaokai"
+title: "Identification, characterization and full-length sequence analysis of a novel dsRNA virus isolated from the arboreal ant *Camponotus yamaokai*"
 collection: publications
 permalink: /publication/Koyama-et-al-2016-Journal-of-General-Virology
 excerpt: ''
