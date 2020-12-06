@@ -17,16 +17,16 @@ redirect_from:
 Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental care, Kin selection, Caste differentiation, Termites, Burying beetles
 
 ### Publications
-Google Citation: 
-Open Researcher and Contributor ID (ORCID): 
+Google Citations:   
+Open Researcher and Contributor ID (ORCID):   
 
 ### Education
-1998     BS Department of Agriculture, Kyoto University
-2000     MS Graduate School of Agriculture, Kyoto University
-2002     Ph.D Graduate School of Agriculture, Kyoto University
+2007     BS Department of Agriculture, Kyoto University  
+2010     MS Graduate School of Agriculture, Kyoto University  
+2013     Ph.D Graduate School of Agriculture, Kyoto University  
 
 ### Followship
-2002-2004     Postdoctoral Research Fellow of the Japan Society for the Promotion of Science, PD
+2018-2021     JSPS Research Fellowships for Young Scientists, PD
 
 ### Academic Positions
 2002-2004  Postdoctoral Research Fellow, OEB (Organismic and Evolutionary Biology), HarvardUniversit
