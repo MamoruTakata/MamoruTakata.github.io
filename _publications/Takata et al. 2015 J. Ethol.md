@@ -1,5 +1,5 @@
 ---
-title: "The proximate cause of asynchronous hatching in the burying beetle Nicrophorus quadripunctatus"
+title: "The proximate cause of asynchronous hatching in the burying beetle *Nicrophorus quadripunctatus*"
 collection: publications
 permalink: /publication/Takata-et-al-2015-Journal-of-Ethology
 excerpt: ''
