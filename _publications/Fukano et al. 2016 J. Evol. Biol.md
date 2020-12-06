@@ -1,5 +1,5 @@
 ---
-title: "Contemporary evolution of host plant range expansion in an introduced herbivorous beetle Ophraella communa"
+title: "Contemporary evolution of host plant range expansion in an introduced herbivorous beetle *Ophraella communa*"
 collection: publications
 permalink: /publication/Fukano-et-al-2016-Journal-of-Evolutionary-Biology
 excerpt: ''
