@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-### Research interests
-
-
 ### Current status
 ```markdown
 2020.08.05 xxxxx
 ```
+
+### Key Words
+Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental care, Kin selection, Caste differentiation, Termites, Burying beetles
+
+### Publications
+Google Citation: 
+Open Researcher and Contributor ID (ORCID): 
 
 ### Education
 1998     BS Department of Agriculture, Kyoto University
@@ -38,8 +42,6 @@ redirect_from:
 2014     Faculty of Science, Okayama University
 2014     Graduate School of Agriculture, Tokyo University of Agriculture and Technology
 2019     Graduate School of Science, Osaka City University
-
-### Publications
 
 ### Awards
 2011     Japan Ethological Society Award
