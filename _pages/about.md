@@ -17,8 +17,8 @@ redirect_from:
 Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental care, Kin selection, Caste differentiation, Termites, Burying beetles
 
 ### Publications
-Google Citations:   
-Open Researcher and Contributor ID (ORCID):   
+[Google Citations](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)
+Open Researcher and Contributor ID (ORCID): [0000-0002-8181-9987](https://orcid.org/0000-0002-8181-9987)  
 
 ### Education
 2007     BS Department of Agriculture, Kyoto University  
