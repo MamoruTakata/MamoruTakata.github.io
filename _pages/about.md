@@ -43,11 +43,10 @@ Open Researcher and Contributor ID (ORCID): [0000-0002-8181-9987](https://orcid.
 2018-(2021) Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (Research Project No. 18J01880)  
 2017-2018 Grant-in-Aid for Research Activity Start-up, Japan Society for the Promotion of Science (Research Project No. 17H06796)
 
-
+<!--
 ### Society Committees
-
 ### Journal Editorship
-
+-->
 
 [link](https://xxxx)
  `_config.yml`
