@@ -23,18 +23,13 @@ Open Researcher and Contributor ID (ORCID): [0000-0002-8181-9987](https://orcid.
 ### Education
 2007     BS Department of Agriculture, Kyoto University  
 2010     MS Graduate School of Agriculture, Kyoto University  
-2013     Ph.D Graduate School of Agriculture, Kyoto University  
+2013     Ph.D United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology  
 
 ### Followship
 2018-2021     JSPS Research Fellowships for Young Scientists, PD
 
 ### Academic Positions
-2002-2004  Postdoctoral Research Fellow, OEB (Organismic and Evolutionary Biology), HarvardUniversit
-2004-2005  Assistant professor, Graduate School of Natural Science and Technology, OkayamaUniversity
-2008-2012  Associate Professor, Graduate School of Environmental Science, Okayama University
-2012-present  Professor, Graduate School of Agriculture, Kyoto University
-2016  Chairperson of Division, Division of Applied Biosciences, Graduate School of Agriculture, Kyoto University
-2020-2021  Director of Faculty Consort of Applied Biosciences, Kyoto University
+2017-2018  Program-Specific Assistant Professor, Graduate School of Agriculture, Kyoto University
 
 ### Part-time Lecturer
 2007     Graduate School of Agriculture, Hokkaido University
@@ -44,14 +39,11 @@ Open Researcher and Contributor ID (ORCID): [0000-0002-8181-9987](https://orcid.
 2019     Graduate School of Science, Osaka City University
 
 ### Awards
-2011     Japan Ethological Society Award
+2020     Japan Ethological Society Award
 
 ### Competitive Grants
-2018-(2020) 
-Grant-in-Aid for Scientific Research (S), Japan Society for the Promotion of Science “Antiaging system of long-lived termite kings” (Research Project No. 18H05268).
-
-2005-2007
-Relationship between genetic diversity and resistance to pathogens in termites (ResearchProject No. 17770016). Grant-in-Aid for Young Scientists (B), Japan Society for the Promotion ofScience
+2018-(2021) Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (Research Project No. 18J01880)  
+2017-2018 Grant-in-Aid for Research Activity Start-up, Japan Society for the Promotion of Science (Research Project No. 17H06796)
 
 ### Society Committees
 
