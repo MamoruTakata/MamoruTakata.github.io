@@ -1,5 +1,5 @@
 ---
-title: "Mating triggers queen elimination by workers of Japanese harvester ant (Messor aciculatus)"
+title: "Mating triggers queen elimination by workers of Japanese harvester ant (*Messor aciculatus*)"
 collection: publications
 permalink: /publication/Takata-et-al-2018-Journal-of-Insect-Behavior
 excerpt: ''
