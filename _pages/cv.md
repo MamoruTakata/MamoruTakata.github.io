@@ -16,34 +16,29 @@ redirect_from:
 * Ph.D in United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013
 
 <br>
-<br>
 
 # Followship
 
 * 2018-2021     JSPS Research Fellowships for Young Scientists, PD  
 
 <br>
-<br>
 
 # Academic Positions
 
 * 2017-2018  Program-Specific Assistant Professor, Graduate School of Agriculture, Kyoto University  
 
-<br>
-<br>
+---
 
 # Part-time Lecturer
 
 * 2015-2017     Faculty of Education, Tokyo Gakugei University  
 
 <br>
-<br>
 
 # Awards
 
 * 2020     Japan Ethological Society Award  
 
-<br>
 <br>
 
 # Presentation Awards
@@ -52,14 +47,12 @@ redirect_from:
 * 2007     Award for The Best Presentation, Department of Biological Production, Faculty of Agriculture, Tokyo University of Agriculture and Technology  
 
 <br>
-<br>
 
 # Competitive Grants
 
 * 2018-(2021) Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (Research Project No. 18J01880)  
 * 2017-2018 Grant-in-Aid for Research Activity Start-up, Japan Society for the Promotion of Science (Research Project No. 17H06796)
 
-<br>
 <br>
 
 # Publications
