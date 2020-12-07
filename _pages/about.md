@@ -18,7 +18,7 @@ Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental
 
 ### Publications
 [Google Citations](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
-Open Researcher and Contributor ID (ORCID): [0000-0002-8181-9987](https://orcid.org/0000-0002-8181-9987)  
+ORCID: [0000-0002-8181-9987](https://orcid.org/0000-0002-8181-9987)  
 
 ### Education
 2007     BS Faculty of Agriculture, Kyoto University  
@@ -36,6 +36,8 @@ Open Researcher and Contributor ID (ORCID): [0000-0002-8181-9987](https://orcid.
 
 ### Awards
 2020     Japan Ethological Society Award  
+
+### Presentation Awards
 2012     Poster Award, Japan Ethological Society  
 2007     Award for The Best Presentation, Department of Biological Production, Faculty of Agriculture, Tokyo University of Agriculture and Technology  
 
