@@ -10,10 +10,16 @@ redirect_from:
 
 ### Recent Publications
 
-  <ul>{% assign publications = site.publications | reverse %}
+  <!-- <ul>{% assign publications = site.publications | reverse %}
+  {% for post in publications limit:5 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+   <ul>{% for post in site.publications reversed %}
   {% for post in publications limit:5 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 
 [Full publication list](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
 
