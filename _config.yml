@@ -10,7 +10,7 @@ locale                   : "ja_JP"
 title                    : "Mamoru Takata"
 title_separator          : "-"
 name                     : &name "Mamoru Takata"
-description              : &description "Developmental biologist and bioinformatician"
+description              : &description "Evolutionary biologist and Behavioural Ecologist"
 url                      : https://MamoruTakata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MamoruTakata/MamoruTakata.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mamoru Takata, Ph.D"
   avatar           : "profile.jpg"
-  bio              : "自己紹介 Kyoto University"
+  bio              : ""
   location         : "Kyoto University"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1fHBRKMAAAAJ"
-  email            : "mamorururu2000@yahoo.co.jp"
+  email            : "takata.mamoru.66r@st.kyoto-u.ac.jp"
   researchgate     : 
   researchmap      : 
   uri              :
@@ -104,7 +104,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-8181-9987"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
