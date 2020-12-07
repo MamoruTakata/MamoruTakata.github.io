@@ -49,6 +49,3 @@ ORCID: [0000-0002-8181-9987](https://orcid.org/0000-0002-8181-9987)
 ### Society Committees
 ### Journal Editorship
 -->
-
-[link](https://xxxx)
- `_config.yml`
