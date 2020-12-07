@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-# Followship
+# Fellowship
 
 * 2018-2021     JSPS Research Fellowships for Young Scientists, PD  
 
