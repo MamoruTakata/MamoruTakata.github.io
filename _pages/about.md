@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Recent Publications
-=====
+======
 
   <!-- <ul>{% assign publications = site.publications | reverse %}
   {% for post in publications limit:5 %}
