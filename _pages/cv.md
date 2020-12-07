@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Faculty of Agriculture, Kyoto University, 2007  
 * M.S. in Graduate School of Agriculture, Kyoto University, 2010  
-* Ph.D United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013  
+* Ph.D in United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013  
 
 Work experience
 ======
@@ -22,17 +22,6 @@ Work experience
   
 * 2017-2018: Program-Specific Assistant Professor  
   * Laboratory of Insect Ecology, Graduate School of Agriculture, Kyoto University    
-
-<!--
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
 
 Publications
 ======
