@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-### Recent Publications
+Recent Publications
+=====
 
   <!-- <ul>{% assign publications = site.publications | reverse %}
   {% for post in publications limit:5 %}
