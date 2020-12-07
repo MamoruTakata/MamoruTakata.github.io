@@ -37,7 +37,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-unlink-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <!--
@@ -51,7 +51,7 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-teaching-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 <!--
