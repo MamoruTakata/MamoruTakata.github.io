@@ -6,6 +6,7 @@ excerpt: ''
 date: 2013-09-01
 venue: 'Journal of Ethology'
 paperurl: 'https://link.springer.com/article/10.1007/s10164-013-0373-1'
+citation: '<b><u>Takata, M.</u></b>, Koyama, S., Satoh, T., Fugo, H. (2013) <i>Journal of Ethology</i> <b>31</b>: 249-254.'
 ---
 
 <!-- 論文の要約・解説など入れたければここ打つ -->
