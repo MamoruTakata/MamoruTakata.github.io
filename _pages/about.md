@@ -36,11 +36,11 @@ Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental
 2015-2017     Faculty of Education, Tokyo Gakugei University  
 
 ### Awards
-2020     Japan Ethological Society Award  
+* 2020     Japan Ethological Society Award  
 
 ### Presentation Awards
-2012     Poster Award, Japan Ethological Society  
-2007     Award for The Best Presentation, Department of Biological Production, Faculty of Agriculture, Tokyo University of Agriculture and Technology  
+* 2012     Poster Award, Japan Ethological Society  
+* 2007     Award for The Best Presentation, Department of Biological Production, Faculty of Agriculture, Tokyo University of Agriculture and Technology  
 
 ### Competitive Grants
 * 2018-(2021) Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (Research Project No. 18J01880)  
