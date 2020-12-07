@@ -21,9 +21,9 @@ Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental
 ORCID: [0000-0002-8181-9987](https://orcid.org/0000-0002-8181-9987)  
 
 ### Education
-2007     BS Faculty of Agriculture, Kyoto University  
-2010     MS Graduate School of Agriculture, Kyoto University  
-2013     Ph.D United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology  
+2007     B.S. Faculty of Agriculture, Kyoto University  
+2010     M.S. Graduate School of Agriculture, Kyoto University  
+2013     Ph.D. United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology  
 
 ### Followship
 2018-2021     JSPS Research Fellowships for Young Scientists, PD  
