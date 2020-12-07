@@ -16,7 +16,7 @@ redirect_from:
   {% endfor %}</ul> -->
   
    <ul><!--{% for post in site.publications reversed %} -->
-  {% for post in publications limit:5  reversed%}
+  {% for post in site.publications reversed limit:5 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
