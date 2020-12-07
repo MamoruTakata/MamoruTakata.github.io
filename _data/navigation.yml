@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Research Interest"
-    url: /research-interest/
-
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks & Presentations"
-    url: /talks/
 
   - title: "CV"
     url: /cv/
