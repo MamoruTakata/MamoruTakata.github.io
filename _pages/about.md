@@ -15,8 +15,8 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-   <ul>{% for post in site.publications reversed %}
-  {% for post in publications limit:5 %}
+   <ul><!--{% for post in site.publications reversed %} -->
+  {% for post in publications limit:5  reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
