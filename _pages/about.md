@@ -11,16 +11,6 @@ redirect_from:
 # Recent Publications
 
 
-   <ul>{% assign publications = site.publications | reverse %}
-  {% for post in publications limit:5 %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  <!-- <ul>{% for post in site.publications reversed %} 
-  {% for post in site.publications reversed limit:5 %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
 
 [Full publication list](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
 
@@ -61,7 +51,3 @@ Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental
 * 2018-(2021) Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (Research Project No. 18J01880)  
 * 2017-2018 Grant-in-Aid for Research Activity Start-up, Japan Society for the Promotion of Science (Research Project No. 17H06796)
 
-<!--
-### Society Committees
-### Journal Editorship
--->
