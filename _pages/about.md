@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-### Current status
-```markdown
-2020.08.05 xxxxx
-```
+### Recent Publications
+
+  <ul>{% assign publications = site.publications | reverse %}
+  {% for post in publications limit:5 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+[Full publication list](https://mamorutakata.github.io/publications/)  
+[Google Citations](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
+
 
 ### Key Words
 Behavioral ecology, Sociobiology, Evolutionary biology, Social insects, Parental care, Kin selection, Caste differentiation, Termites, Burying beetles
-
-### Publications
-[Google Citations](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
-ORCID: [0000-0002-8181-9987](https://orcid.org/0000-0002-8181-9987)  
 
 ### Education
 2007     B.S. Faculty of Agriculture, Kyoto University  
