@@ -11,8 +11,8 @@ redirect_from:
 
 # Education
 
-* B.S. in Faculty of Agriculture, Kyoto University, 2007  
-* M.S. in Graduate School of Agriculture, Kyoto University, 2010  
+* B.S. in Faculty of Agriculture, Tokyo University of Agriculture and Technology, 2007  
+* M.S. in Graduate School of Agriculture, Tokyo University of Agriculture and Technology, 2010  
 * Ph.D in United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013
 
 ---
