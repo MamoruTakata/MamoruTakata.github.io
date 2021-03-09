@@ -15,7 +15,8 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Full publication list](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
+[Full publication list](https://mamorutakata.github.io/cv/#publications)  
+[Google Scholar citations](https://scholar.google.com/citations?user=1fHBRKMAAAAJ)  
 
 
 # Key Words
