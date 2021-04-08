@@ -36,7 +36,7 @@ redirect_from:
 
 ---
 
-# Awards
+# Honors and Prizes
 
 * 2020     Japan Ethological Society Award  
 
