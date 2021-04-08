@@ -51,7 +51,7 @@ redirect_from:
 
 # Competitive Grants
 
-* 2021-(2026) Grant-in-Aid for Young Scientists, Japan Society for the Promotion of Science (Research Project No. 21K14863)
+* 2021-(2026) Grant-in-Aid for Early-Career Scientists, Japan Society for the Promotion of Science (Research Project No. 21K14863)
 * 2018-2021   Grant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science (Research Project No. 18J01880)  
 * 2017-2018   Grant-in-Aid for Research Activity Start-up, Japan Society for the Promotion of Science (Research Project No. 17H06796)
 
