@@ -1,5 +1,5 @@
 ---
-title: "Discovery of an underground chamber to protect kings and queens during winter in temperate termites."
+title: "Discovery of an underground chamber to protect kings and queens during winter in temperate termites"
 collection: publications
 permalink: /publication/Takata-et-al-2023-Scientific-Reports
 excerpt: ''
