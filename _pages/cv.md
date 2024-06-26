@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% include mermaid-cv.md %}
 
 # Education
 
@@ -58,6 +59,8 @@ redirect_from:
 ---
 
 # Publications
+
+Total: {{ site.publications | size }}
 
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
