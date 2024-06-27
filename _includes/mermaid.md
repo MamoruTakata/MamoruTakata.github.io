@@ -12,7 +12,7 @@ section Work history
 section Publications
   Wu et al. (2024) Proc. Roy. Soc. B            :       Wu et al. 2024, 2024-05-22, 2w
   Tamannaa et al. (2024) Med. Mass Spectrom     :       Tamannaa et al. 2024, 2024-04-01, 2w
-  Wu et al. (2024) PROS ONE.                    :       Wu et al. 2023, 2024-11-02, 2w
+  Wu et al. (2023) PROS ONE                     :       Wu et al. 2023, 2023-11-02, 2w
   Ishibashi et al. (2023) Dev. Growth Differ.   :       Ishibashi et al. 2023, 2023-07-18, 2w
   Takata et al. (2023) Sci. Nat.                : crit, Takata et al. 2023c, 2023-07-17, 2w
   Tasaki et al. (2023) PNAS Nexus               :       Tasaki et al. 2023, 2023-07-04, 2w
