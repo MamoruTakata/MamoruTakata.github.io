@@ -1,15 +1,26 @@
 ```mermaid
 gantt
-section Education
-  Ph.D. @TUAT    : Ph.D., 2010-04-01, 2013-09-18
-  Master @TUAT   : MS, 2007-04-01, 2010-03-31
-  Bachelor @TUAT : BS, 2003-04-01, 2007-03-31
-
 section Work history
   Asst. Prof. @Kyoto Univ.                      : active, Asst. Prof., 2020-04-01, 2026-03-31
   JSPS PD @Kyoto Univ.                          : active, PD, 2018-04-01, 2020-03-31
   Program-Specific Asst. Prof. @Kyoto Univ.     : active, Program-Specific Asst. Prof., 2017-04-01, 2018-03-31
   Doctoral Research Fellow @TUAT                : active, Program-Specific Asst. Prof., 2013-10-01, 2017-03-31
+
+section Education
+  Ph.D. @TUAT    : Ph.D., 2010-04-01, 2013-09-18
+  Master @TUAT   : MS, 2007-04-01, 2010-03-31
+  Bachelor @TUAT : BS, 2003-04-01, 2007-03-31
+
+section Funding
+  Grant-in-Aid for for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
+  Grant-in-Aid for JSPS Fellows                 : active, grant_PD, 2018-04-01, 2021-03-31
+  Grant-in-Aid for Research Activity Start-up   : active, grant_start, 2017-08-01, 2018-03-31
+  Sasakawa Scientific Research Grant            : active, grant_Sasagawa, 2014-04-01, 2015-03-31
+
+section Awards
+  Japan Ethological Society Award               : crit, aw_2, 2020-11-21, 2w
+  Poster Award                                  : crit, aw_1, 2012-11-24, 2w
+
 section Publications
   Wu et al. (2024) Proc. Roy. Soc. B            :       Wu et al. 2024, 2024-05-22, 2w
   Tamannaa et al. (2024) Med. Mass Spectrom     :       Tamannaa et al. 2024, 2024-04-01, 2w
@@ -36,12 +47,4 @@ section Publications
   Koyama et al. (2013) Trends Entomol.          :       Koyama et al. 2013, 2013-12-01, 2w
   Takata et al. (2013) J. Ethol.                : crit, Takata et al. 2015b, 2013-04-21, 2w
   Takata et al. (2013) J. Ethol.                : crit, Takata et al. 2015a, 2013-02-23, 2w
-section Awards
-  Japan Ethological Society Award               : crit, aw_2, 2020-11-21, 2w
-  Poster Award                                  : crit, aw_1, 2012-11-24, 2w
-section Funding
-  Grant-in-Aid for for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
-  Grant-in-Aid for JSPS Fellows                 : active, grant_PD, 2018-04-01, 2021-03-31
-  Grant-in-Aid for Research Activity Start-up   : active, grant_start, 2017-08-01, 2018-03-31
-  Sasakawa Scientific Research Grant            : active, grant_Sasagawa, 2014-04-01, 2015-03-31
 ```
