@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include mermaid-cv.md %}
+{% include mermaid.md %}
 
 # Education
 
