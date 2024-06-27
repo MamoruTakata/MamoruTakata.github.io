@@ -37,7 +37,7 @@ section Publications
   Takata et al. (2013) J. Ethol.                : crit, Takata et al. 2015b, 2013-04-21, 2w
   Takata et al. (2013) J. Ethol.                : crit, Takata et al. 2015a, 2013-02-23, 2w
 section Awards
-  Japan Ethological Society Award.              : crit, aw_2, 2020-11-21, 2w
+  Japan Ethological Society Award               : crit, aw_2, 2020-11-21, 2w
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 section Funding
   Grant-in-Aid for for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
