@@ -6,7 +6,7 @@ section Education
   Bachelor @TUAT : BS, 2003-04-01, 2007-03-31
 
 section Work history
-  Asst. Prof. @Kyoto Univ.                      : done, Asst. Prof., 2020-04-01, 2025-03-31
+  Asst. Prof. @Kyoto Univ.                      : done, Asst. Prof., 2020-04-01, 2026-03-31
   JSPS PD @Kyoto Univ.                          : done, PD, 2018-04-01, 2020-03-31
   Program-Specific Asst. Prof. @Kyoto Univ.     : done, Program-Specific Asst. Prof., 2017-04-01, 2018-03-31
 section Publications
