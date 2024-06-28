@@ -8,8 +8,8 @@ section Work history
 
 section Education
   Ph.D. @TUAT    : Ph.D., 2010-04-01, 2013-09-18
-  M.S. @TUAT   : MS, 2007-04-01, 2010-03-31
-  B.S. @TUAT : BS, 2003-04-01, 2007-03-31
+  M.S. @TUAT     : MS, 2007-04-01, 2010-03-31
+  B.S. @TUAT     : BS, 2003-04-01, 2007-03-31
 
 section Funding
   Grant-in-Aid for for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
@@ -22,7 +22,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
-  Wu et al. (2024) Proc. R. Soc. B            :       Wu et al. 2024, 2024-05-22, 2w
+  Wu et al. (2024) Proc. R. Soc. B             ： :       Wu et al. 2024, 2024-05-22, 2w
   Tamannaa et al. (2024) Med. Mass Spectrom     :       Tamannaa et al. 2024, 2024-04-01, 2w
   Wu et al. (2023) PROS ONE                     :       Wu et al. 2023, 2023-11-02, 2w
   Ishibashi et al. (2023) Dev. Growth Differ.   :       Ishibashi et al. 2023, 2023-07-18, 2w
