@@ -22,7 +22,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
-  Wu et al. (2024) Proc. Roy. Soc. B            :       Wu et al. 2024, 2024-05-22, 2w
+  Wu et al. (2024) Proc. R. Soc. B            :       Wu et al. 2024, 2024-05-22, 2w
   Tamannaa et al. (2024) Med. Mass Spectrom     :       Tamannaa et al. 2024, 2024-04-01, 2w
   Wu et al. (2023) PROS ONE                     :       Wu et al. 2023, 2023-11-02, 2w
   Ishibashi et al. (2023) Dev. Growth Differ.   :       Ishibashi et al. 2023, 2023-07-18, 2w
@@ -30,7 +30,7 @@ section Publications
   Tasaki et al. (2023) PNAS Nexus               :       Tasaki et al. 2023, 2023-07-04, 2w
   Takata et al. (2023) Sci. Rep                 : crit, Takata et al. 2023b, 2023-05-31, 2w
   Takata et al. (2023) iScience.                : crit, Takata et al. 2023a, 2023-03-17, 2w
-  Konishi et al. (2023) Proc. Roy. Soc. B       :       Konishi et al. 2023, 2023-01-04, 2w
+  Konishi et al. (2023) Proc. R. Soc. B       :       Konishi et al. 2023, 2023-01-04, 2w
   Tamaki et al. (2021) Biol. Lett.              :       Tamaki et al. 2021, 2021-12-22, 2w
   Tasaki et al. (2021) Philos. Trans. R. Soc. Lond. B : Tasaki et al. 2021, 2021-04-26, 2w
   Takata et al. (2020) Insect. Soci.            : crit, Takata et al. 2020, 2020-09-22, 2w
