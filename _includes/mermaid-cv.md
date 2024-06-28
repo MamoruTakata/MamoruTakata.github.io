@@ -8,8 +8,8 @@ section Work history
 
 section Education
   Ph.D. @TUAT    : Ph.D., 2010-04-01, 2013-09-18
-  Master @TUAT   : MS, 2007-04-01, 2010-03-31
-  Bachelor @TUAT : BS, 2003-04-01, 2007-03-31
+  M.S. @TUAT   : MS, 2007-04-01, 2010-03-31
+  B.S. @TUAT : BS, 2003-04-01, 2007-03-31
 
 section Funding
   Grant-in-Aid for for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
