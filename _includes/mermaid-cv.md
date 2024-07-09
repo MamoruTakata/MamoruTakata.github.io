@@ -12,7 +12,7 @@ section Education
   B.S. @TUAT     : BS, 2003-04-01, 2007-03-31
 
 section Funding
-  Grant-in-Aid for for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
+  Grant-in-Aid for Early-Career Scientists  : active, grant_young, 2021-04-01, 2026-03-31
   Grant-in-Aid for JSPS Fellows                 : active, grant_PD, 2018-04-01, 2021-03-31
   Grant-in-Aid for Research Activity Start-up   : active, grant_start, 2017-08-01, 2018-03-31
   Sasakawa Scientific Research Grant            : active, grant_Sasagawa, 2014-04-01, 2015-03-31
