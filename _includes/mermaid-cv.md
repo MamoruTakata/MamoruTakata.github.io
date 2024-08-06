@@ -32,7 +32,7 @@ section Publications
   Takata et al. (2023) iScience.                : crit, Takata et al. 2023a, 2023-03-17, 2w
   Konishi et al. (2023) Proc. R. Soc. B         :       Konishi et al. 2023, 2023-01-04, 2w
   Tamaki et al. (2021) Biol. Lett.              :       Tamaki et al. 2021, 2021-12-22, 2w
-  Tasaki et al. (2021) Philos. Trans. R. Soc. Lond. B : Tasaki et al. 2021, 2021-04-26, 2w
+  Tasaki et al. (2021) Philos. Trans. R. Soc. B :       Tasaki et al. 2021, 2021-04-26, 2w
   Takata et al. (2020) Insect. Soci.            : crit, Takata et al. 2020, 2020-09-22, 2w
   Takata et al. (2019) iScience                 : crit, Takata et al. 2019, 2019-09-27, 2w
   Takata et al. (2018) J. Insec. Behav.         : crit, Takata et al. 2018, 2018-04-14, 2w
