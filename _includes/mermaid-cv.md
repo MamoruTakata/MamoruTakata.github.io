@@ -22,6 +22,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Osaki et al. (2024) Ecol. Evol.               :       Osaki et al. 2024, 2024-10-17, 2w
   Wu et al. (2024) Proc. R. Soc. B              :       Wu et al. 2024, 2024-05-22, 2w
   Tamannaa et al. (2024) Med. Mass Spectrom.    :       Tamannaa et al. 2024, 2024-04-01, 2w
   Wu et al. (2023) PLOS ONE                     :       Wu et al. 2023, 2023-11-02, 2w
