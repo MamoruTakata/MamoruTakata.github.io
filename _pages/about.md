@@ -17,7 +17,7 @@ redirect_from:
 
 [Full publication list](https://mamorutakata.github.io/cv/#publications) 
 
-<a href="https://scholar.google.com/citations?user=1fHBRKMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar citations</a>
+<a href="https://scholar.google.com/citations?user=1fHBRKMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar Citations</a>
 
 
 # Key Words
