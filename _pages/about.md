@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mamoru Takata, Ph.D"
+title: "Mamoru Takata, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
