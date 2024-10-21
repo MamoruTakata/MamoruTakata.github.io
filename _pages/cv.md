@@ -14,7 +14,7 @@ redirect_from:
 
 * B.S. in Faculty of Agriculture, Tokyo University of Agriculture and Technology, 2007  
 * M.S. in Graduate School of Agriculture, Tokyo University of Agriculture and Technology, 2010  
-* Ph.D in United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013
+* Ph.D. in United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013
 
 ---
 
