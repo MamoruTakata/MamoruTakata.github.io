@@ -12,9 +12,9 @@ redirect_from:
 
 # Education
 
-* B.S. in Faculty of Agriculture, Tokyo University of Agriculture and Technology, 2007  
-* M.S. in Graduate School of Agriculture, Tokyo University of Agriculture and Technology, 2010  
 * Ph.D. in United Graduate School of Agricultural Science, Tokyo University of Agriculture and Technology, 2013
+* M.S. in Graduate School of Agriculture, Tokyo University of Agriculture and Technology, 2010  
+* B.S. in Faculty of Agriculture, Tokyo University of Agriculture and Technology, 2007  
 
 ---
 
@@ -26,8 +26,9 @@ redirect_from:
 
 # Academic Positions
 
+* 2025-present  Associate Professor, Graduate School of Agriculture, Kyoto University
+* 2021-2025     Assistant Professor, Graduate School of Agriculture, Kyoto University
 * 2017-2018     Program-Specific Assistant Professor, Graduate School of Agriculture, Kyoto University  
-* 2021-present  Assistant professor, Graduate School of Agriculture, Kyoto University
 
 ---
 
