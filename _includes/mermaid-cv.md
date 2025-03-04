@@ -23,6 +23,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Takahashi et al. (2025) Mol. Ecol.            :       Takahashi et al. 2025, 2025-03-04, 2w
   Takata & Matsuo (2025) Popul. Ecol.           : crit, Takata & Matsuo 2025, 2025-01-07, 2w
   Osaki et al. (2024) Ecol. Evol.               :       Osaki et al. 2024, 2024-10-17, 2w
   Wu et al. (2024) Proc. R. Soc. B              :       Wu et al. 2024, 2024-05-22, 2w
