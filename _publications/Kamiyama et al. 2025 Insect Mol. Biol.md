@@ -1,5 +1,5 @@
 ---
-title: "Differences in gene expression patterns between parthenogenetically and sexually produced offspring during early development of Reticulitermes speratus"
+title: "Differences in gene expression patterns between parthenogenetically and sexually produced offspring during early development of <i>Reticulitermes speratus</i>"
 collection: publications
 permalink: /publication/Kamiyama-et-al-2025-Insect-Molecular-Biology
 excerpt: ''
