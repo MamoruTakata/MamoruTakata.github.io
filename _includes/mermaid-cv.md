@@ -3,7 +3,7 @@ gantt
 section Work history
   Assoc. Prof. @Kyoto Univ.                     : active, Assoc. Prof., 2025-04-01, 2030-03-31
   Asst. Prof. @Kyoto Univ.                      : active, Asst. Prof., 2021-04-01, 2025-03-31
-  JSPS PD @Kyoto Univ.                          : active, PD, 2018-04-01, 2020-03-31
+  JSPS PD @Kyoto Univ.                          : active, PD, 2018-04-01, 2021-03-31
   Program-Specific Asst. Prof. @Kyoto Univ.     : active, Program-Specific Asst. Prof., 2017-04-01, 2018-03-31
   Doctoral Research Fellow @TUAT                : active, Program-Specific Asst. Prof., 2013-10-01, 2017-03-31
 
