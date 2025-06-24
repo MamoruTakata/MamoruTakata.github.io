@@ -15,31 +15,36 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-    <!-- <b> class="archive__item-title" itemprop="headline"> -->
-      <!-- {% if post.link %}
-        {{ title }}<i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
-      {% else %}-->
-      <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
-      {% if post.pdf_url %}
-      <p><a href="{{ post.pdf_url }}" class="btn btn--small" target="_blank">PDF</a></p>
+      {% if include.type == "grid" and teaser %}
+        <div class="archive__item-teaser">
+          <img
+            src="{% if teaser contains "://" %}{{ teaser }}{% else %}{{ teaser | prepend: "/images/" | prepend: base_path }}{% endif %}"
+            alt="">
+        </div>
       {% endif %}
-      <!-- {% endif %} -->
-   <!--  </b> -->
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+
+      <!-- タイトルリンク -->
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
+
+      <!-- 読了時間（オプション） -->
+      {% if post.read_time %}
+        <p class="page__meta">
+          <i class="fa fa-clock-o" aria-hidden="true"></i>
+          {% include read-time.html %}
+        </p>
+      {% endif %}
+
+      <!-- 引用情報＋PDFリンク -->
+      {% if post.venue %}
+        <p class="archive__item-excerpt" itemprop="description">
+          {{ post.citation }}
+          {% if post.pdf_url %}
+            &nbsp;|&nbsp;
+            <a href="{{ post.pdf_url }}" target="_blank">PDF</a>
+          {% endif %}
+        </p>
+      {% endif %}
+
     </li>
- </article>
+  </article>
 </div>
