@@ -6,6 +6,7 @@ excerpt: ''
 date: 2021-04-26
 venue: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
 paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0740'
+pdf_url: 'https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/267599/1/rstb.2019.0740.pdf'
 citation: 'Tasaki E., <b><u>Takata M.</u></b>, Matsuura K. (2021) <b><i>Philosophical Transactions of the Royal Society B: Biological Sciences</i></b> 376: 20190740.'
 ---
 
