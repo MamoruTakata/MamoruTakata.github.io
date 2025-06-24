@@ -6,6 +6,7 @@ excerpt: ''
 date: 2020-09-22
 venue: 'Insectes Sociaux'
 paperurl: 'https://link.springer.com/article/10.1007/s00040-020-00785-2'
+pdf_url: 'https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/292063/1/s00040-020-00785-2.pdf'
 citation: '<b><u>Takata M.</u></b>, Inagaki T., Ishibashi T., Tasaki E., Matsuura K. (2020) <b><i>Insectes Sociaux</i></b> 67: 487-493.'
 ---
 
