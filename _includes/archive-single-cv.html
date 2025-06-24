@@ -31,6 +31,9 @@
         {{ title }}<i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
       {% else %}-->
       <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
+      {% if post.pdf_url %}
+      <p><a href="{{ post.pdf_url }}" class="btn btn--small" target="_blank">PDF</a></p>
+      {% endif %}
       <!-- {% endif %} -->
    <!--  </b> -->
     {% if post.read_time %}
