@@ -40,7 +40,9 @@
           {{ post.citation }}
           {% if post.pdf_url %}
             &nbsp;|&nbsp;
-            <a href="{{ post.pdf_url }}" target="_blank">PDF</a>
+            <a href="{{ post.pdf_url }}" class="btn btn--pdf" target="_blank">
+              <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
+            </a>
           {% endif %}
         </p>
       {% endif %}
