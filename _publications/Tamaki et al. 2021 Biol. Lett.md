@@ -6,6 +6,7 @@ excerpt: ''
 date: 2021-12-22
 venue: 'Biology Letters'
 paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rsbl.2021.0540'
+pdf_url: 'https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/292171/1/rsbl.2021.0540.pdf'
 citation: 'Tamaki C., <b><u>Takata M.</u></b>, Matsuura K. (2021) <b><i>Biology Letters</i></b> 17: 20210540.'
 ---
 
