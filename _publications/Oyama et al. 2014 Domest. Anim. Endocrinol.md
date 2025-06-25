@@ -6,6 +6,7 @@ excerpt: ''
 date: 2014-01-01
 venue: 'Domestic Animal Endocrinology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0739724013001161'
+pdf_url: '/assets/papers/Oyama et al. 2014 Domest. Amin. Endocrinol.pdf'
 citation: 'Oyama D., Hyodo M., Doi H., Kurachi T., <b><u>Takata M.</u></b>, Koyama S., Satoh T., Watanabe G. (2014) <b><i>Domestic Animal Endocrinology</i></b> 46: 20-25.'
 ---
 
