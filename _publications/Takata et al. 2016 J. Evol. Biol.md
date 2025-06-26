@@ -6,6 +6,7 @@ excerpt: ''
 date: 2016-01-01
 venue: 'Journal of Evolutionary Biology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.12775'
+pdf_url: '/assets/papers/Takata et al. 2016 J. Evol. Biol.pdf'
 citation: '<b><u>Takata M.</u></b>, Doi H., Thomas C.E., Koyama S. (2016) <b><i>Journal of Evolutionary Biology</i></b> 29: 199-204.'
 ---
 
