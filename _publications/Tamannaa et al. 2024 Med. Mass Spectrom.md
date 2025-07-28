@@ -6,5 +6,6 @@ excerpt: ''
 date: 2024-04-19
 venue: 'Medical Mass Spectrometry'
 paperurl: 'http://www.jsbms.jp/english/publish/'
+pdf_url: 'https://www.jsbms.jp/english/publish/0801_setou.pdf'
 citation: 'Tamannaa Z., Sakamoto T., Mamun Md. A., Oyama S., Waliullah A.S.M., Islam A., Nabi Md. M., Aramaki S., Tasaki E., Mitaka Y., <b><u>Takata M.</u></b>, Sato T., Kahyo T., Matsuura K., Setou M. (2024) <b><i>Medical Mass Spectrometry</i></b> 8: 1-9.'
 ---
