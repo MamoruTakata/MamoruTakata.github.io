@@ -23,6 +23,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Eggert et al. (2025) Evolution                :       Eggert et al. 2025, 2025-10-10, 2w
   Kamiyama et al. (2025) Insect. Soci.          :       Kamiyama et al. 2025, 2025-08-31, 2w
   Takata et al. (2025) PNAS                     : crit, Takata et al. 2025, 2025-06-13, 2w
   Kamiyama et al. (2025) Insect Mol. Biol.      :       Kamiyama et al. 2025, 2025-05-11, 2w
