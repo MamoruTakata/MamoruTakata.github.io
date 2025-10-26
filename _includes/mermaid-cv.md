@@ -23,7 +23,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
-  Eggert et al. (2025) Evolution                :       Eggert et al. 2025, 2025-10-10, 2w
+  Eggert et al. (2025) Evolution                :       Eggert et al. 2025, 2025-10-23, 2w
   Kamiyama et al. (2025) Insect. Soci.          :       Kamiyama et al. 2025, 2025-08-31, 2w
   Takata et al. (2025) PNAS                     : crit, Takata et al. 2025, 2025-06-13, 2w
   Kamiyama et al. (2025) Insect Mol. Biol.      :       Kamiyama et al. 2025, 2025-05-11, 2w
@@ -37,7 +37,7 @@ section Publications
   Ishibashi et al. (2023) Dev. Growth Differ.   :       Ishibashi et al. 2023, 2023-07-18, 2w
   Takata et al. (2023) Sci. Nat.                : crit, Takata et al. 2023c, 2023-07-17, 2w
   Tasaki et al. (2023) PNAS Nexus               :       Tasaki et al. 2023, 2023-07-04, 2w
-  Takata et al. (2023) Sci. Rep                 : crit, Takata et al. 2023b, 2023-05-31, 2w
+  Takata et al. (2023) Sci. Rep.                : crit, Takata et al. 2023b, 2023-05-31, 2w
   Takata et al. (2023) iScience                 : crit, Takata et al. 2023a, 2023-03-17, 2w
   Konishi et al. (2023) Proc. R. Soc. B         :       Konishi et al. 2023, 2023-01-04, 2w
   Tamaki et al. (2021) Biol. Lett.              :       Tamaki et al. 2021, 2021-12-22, 2w
