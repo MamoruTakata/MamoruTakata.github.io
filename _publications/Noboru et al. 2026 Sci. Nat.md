@@ -6,6 +6,5 @@ excerpt: ''
 date: 2026-01-01
 venue: 'The Science of Nature'
 paperurl: ''
-pdf_url: ''
 citation: 'Noboru Y., Maeda T., <b><u>Takata M.</u></b>, Matsuura K. (2023) <b><i>The Science of Nature</i></b> in press.'
 ---
