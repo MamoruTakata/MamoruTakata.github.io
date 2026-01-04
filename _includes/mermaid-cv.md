@@ -23,7 +23,8 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
-  Noboru et al. (2026) Sci. Nat.                :       Noboru et al. 2025, 2026-1-1, 2w
+  Yabe et al. (2026) J. Informetrics            :       Yabe et al. 2026, 2026-1-3, 2w
+  Noboru et al. (2026) Sci. Nat.                :       Noboru et al. 2026, 2026-1-1, 2w
   Eggert et al. (2025) Evolution                :       Eggert et al. 2025, 2025-10-23, 2w
   Kamiyama et al. (2025) Insect. Soci.          :       Kamiyama et al. 2025, 2025-08-31, 2w
   Takata et al. (2025) PNAS                     : crit, Takata et al. 2025, 2025-06-13, 2w
