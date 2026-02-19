@@ -1,7 +1,13 @@
 # main links links
 main:
+  - title: "Top"
+    url: /
+
   - title: "Publications"
     url: /cv#publications
 
   - title: "CV"
     url: /cv/
+
+  - title: "日本語ページ"
+    url: /japanese/
