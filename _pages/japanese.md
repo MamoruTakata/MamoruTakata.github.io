@@ -72,6 +72,13 @@ permalink: /japanese/
 家族内で起こるいろんな問題に対して、  
 生き物たちがどんな対処法を編み出してきたのか、明らかにすることができます。
 
+▼詳細が気になる方▼  
+<a href="https://www.kyoto-u.ac.jp/ja/research-news/2019-09-12"
+   target="_blank"
+   rel="noopener noreferrer">
+京都大学プレスリリース：「給餌フェロモン」を発見 －シデムシの母親は匂いで子の餌乞いを操る－
+</a>
+
 [▲ コンテンツ一覧へ戻る](#top)
 
 ---
@@ -153,7 +160,7 @@ permalink: /japanese/
 シンプルに京都という地は、  
 四季折々、いろんな顔を楽しむことができます。
 
-<img src="/images/ajisai.jpg" style="width:50%; height:auto;"><img src="/images/ume.jpg" style="width:50%; height:auto;">
+<img src="/images/ajisai.jpg" style="width:44.5%; height:auto;"><img src="/images/ume.jpg" style="width:55.5%; height:auto;">
 
 <img src="/images/tera.jpg" style="width:100%; height:auto;">
 
