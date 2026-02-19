@@ -98,18 +98,15 @@ permalink: /japanese/
 研究のアイデアが生まれる場所。  
 お茶でも飲みつつ、ホワイトボードに書いて  
 あーだ、こーだ話してると、すごい発見のタネが出てきます。
-
 <img src="/images/tea_room.jpg" style="width:100%; height:auto;">
 
 # 実験室
 
 一通りの分析機器がそろっています。
-
 <img src="/images/lab1.jpg" style="width:100%; height:auto;">
 
 実験装置を自作したりして、  
 誰も到達したことのない発見につなげます。
-
 <img src="/images/lab2.jpg" style="width:100%; height:auto;">
 
 [▲ コンテンツ一覧へ戻る](#top)
@@ -123,28 +120,22 @@ permalink: /japanese/
 いろんな場所に調査に行きます。
 
 南の島とか
-
 <img src="/images/island.jpg" style="width:100%; height:auto;">
 
 北海道とか
-
 <img src="/images/hokkaido.jpg" style="width:100%; height:auto;">
 
 山の中とか
-
 <img src="/images/yama.jpg" style="width:100%; height:auto;">
 
 あと、小舟やプロペラ機に乗れるのも、地味に楽しい経験になります。
-
 <img src="/images/plane.jpg" style="width:100%; height:auto;">
-
 <img src="/images/ship.jpg" style="width:100%; height:auto;">
 
 # バーベキュー
 
 火を囲んで同じものを食べつつ語らうと  
 なぜか楽しくなる生き物なんです、ニンゲンは。
-
 <img src="/images/BBQ.jpg" style="width:50%; height:auto;">
 
 # 趣味
@@ -152,7 +143,6 @@ permalink: /japanese/
 他の人の迷惑ならなければ、  
 趣味で生き物を飼育を楽しんだりもできます。  
 息抜きって、とても大事。
-
 <img src="/images/aqua.jpg" style="width:100%; height:auto;">
 
 # 京都という立地
