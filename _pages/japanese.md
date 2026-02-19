@@ -83,8 +83,8 @@ permalink: /japanese/
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2019-09-12"
    target="_blank"
    rel="noopener noreferrer">
-「給餌フェロモン」を発見  
-－シデムシの母親は匂いで子の餌乞いを操る－
+「給餌フェロモン」を発見：  
+シデムシの母親は匂いで子の餌乞いを操る
 </a>
 
 [▲ コンテンツ一覧へ戻る](#top)
@@ -117,8 +117,8 @@ permalink: /japanese/
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2024-05-22"
    target="_blank"
    rel="noopener noreferrer">
-シロアリ女王の椅子取りゲーム  
-―熾烈な内部競争がもたらすコロニー全体のコスト―
+シロアリ女王の椅子取りゲーム：  
+熾烈な内部競争がもたらすコロニー全体のコスト
 </a>
 
 ---
@@ -164,7 +164,7 @@ permalink: /japanese/
 <a href="https://royalsocietypublishing.org/rsbl/article/17/12/20210540/62873/The-lose-to-win-strategy-of-the-weak-intraspecific"
    target="_blank"
    rel="noopener noreferrer">
-負けるが勝ち！  
+負けてもまだ終わりじゃない！  
 卵の誘拐を介した種内托卵戦略の発見
 </a>
 
@@ -196,8 +196,8 @@ permalink: /japanese/
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2023-07-13"
    target="_blank"
    rel="noopener noreferrer">
-シロアリの王と女王の特別食を世界初解明  
-―王と女王の繁殖と長寿を支えるロイヤルフード―
+シロアリの王と女王の特別食を世界初解明：  
+王と女王の繁殖と長寿を支えるロイヤルフード
 </a>
 
 ---
@@ -224,8 +224,8 @@ permalink: /japanese/
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2023-03-22"
    target="_blank"
    rel="noopener noreferrer">
-シロアリの社会における分業システムの鍵を発見  
-―王と女王だけが持つことを許された酵素を特定―
+シロアリの社会における分業システムの鍵を発見：  
+王と女王だけが持つことを許された酵素を特定
 </a>
 
 ---
@@ -263,8 +263,8 @@ DNAの配列でも、子が育つ環境でもない第三の要因、
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2025-06-16"
    target="_blank"
    rel="noopener noreferrer">
-父親の年齢で子の発生運命が変わる  
-―シロアリのエピジェネティック遺伝を世界初証明―
+父親の年齢で子の発生運命が変わる：  
+シロアリのエピジェネティック遺伝を世界初証明
 </a>
 
 ---
@@ -306,7 +306,7 @@ DNAの配列でも、子が育つ環境でもない第三の要因、
 
 ### 調査旅行
 
-いろんな場所に調査に行きます。
+いろんな場所に調査に行きます。  
 たっぷり自然を満喫できるのが魅力☆
 
 南の島とか
@@ -341,7 +341,6 @@ DNAの配列でも、子が育つ環境でもない第三の要因、
 
 シンプルに京都という地は、  
 四季折々、いろんな顔を楽しむことができます。
-
 <img src="/images/ajisai.jpg" style="width:44.5%; height:auto;"><img src="/images/ume.jpg" style="width:55.5%; height:auto;">
 
 <img src="/images/tera.jpg" style="width:100%; height:auto;">
