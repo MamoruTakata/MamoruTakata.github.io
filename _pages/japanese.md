@@ -138,7 +138,7 @@ permalink: /japanese/
 昆虫の家族にも、  
 見えない“ごはんのベル”があったんですね。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+▼詳細は京都大学プレスリリースへ▼  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2019-09-12"
    target="_blank"
    rel="noopener noreferrer">
@@ -175,7 +175,7 @@ permalink: /japanese/
 完全に同じゲノムを持つクローンじゃない限り、  
 いつだって競争関係になってしまうんですね。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+▼詳細は京都大学プレスリリースへ▼  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2024-05-22"
    target="_blank"
    rel="noopener noreferrer">
@@ -271,7 +271,7 @@ permalink: /japanese/
 この成分が私たちの健康長寿に  
 役立つ日が来るかもしれません。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+▼詳細は京都大学プレスリリースへ▼  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2023-07-13"
    target="_blank"
    rel="noopener noreferrer">
@@ -312,7 +312,7 @@ permalink: /japanese/
 そんな精巧なシステムが、  
 この小さな社会を支えているのです。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+▼詳細は京都大学プレスリリースへ▼  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2023-03-22"
    target="_blank"
    rel="noopener noreferrer">
@@ -356,7 +356,7 @@ DNA配列でも、生育環境でもない、
 その情報が、生き物たちの社会進化の背景に  
 深く関わっているようです。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+▼詳細は京都大学プレスリリースへ▼  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2025-06-16"
    target="_blank"
    rel="noopener noreferrer">
