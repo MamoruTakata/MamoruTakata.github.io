@@ -1,5 +1,5 @@
 ---
-title: "日本語"
+title: "日本人の学生さんへ"
 permalink: /japanese/
 ---
 
@@ -47,7 +47,7 @@ permalink: /japanese/
 
 ---
 
-<h1 id="c2">研究内容とか。</h1>
+<h1 id="c2">研究内容</h1>
 
 ## <a id="c2-1"></a>パパとママが子育てする変なムシの研究
 
@@ -64,7 +64,7 @@ permalink: /japanese/
 私は家族で子育てをするモンシデムシという甲虫が  
 おもしろいなぁと思って研究対象にしています。
 
-<img src="/images/burying_beetle.jpg" style="width:70%; height:auto;">
+<img src="/images/burying_beetle.jpg" style="width:80%; height:auto;">
 
 この昆虫の何がすごいかというと、  
 パパとママが口移しでご飯をあげながら  
@@ -79,7 +79,7 @@ permalink: /japanese/
 生き物たちがどんな対処法を編み出してきたのか、  
 明らかにすることができます。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+↓研究内容の詳細は京都大学プレスリリースへ↓  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2019-09-12"
    target="_blank"
    rel="noopener noreferrer">
@@ -113,7 +113,7 @@ permalink: /japanese/
 完全に同じゲノムを持つクローンじゃない限り、  
 いつだって競争関係になってしまうんですね。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+↓研究内容の詳細は京都大学プレスリリースへ↓  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2024-05-22"
    target="_blank"
    rel="noopener noreferrer">
@@ -192,7 +192,7 @@ permalink: /japanese/
 この成分で健康で長生きできるようになる未来が  
 くるかもしれませんね。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+↓研究内容の詳細は京都大学プレスリリースへ↓  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2023-07-13"
    target="_blank"
    rel="noopener noreferrer">
@@ -220,7 +220,7 @@ permalink: /japanese/
 
 大事なものにはちゃんと鍵をかけておくんですね。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+↓研究内容の詳細は京都大学プレスリリースへ↓  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2023-03-22"
    target="_blank"
    rel="noopener noreferrer">
@@ -259,7 +259,7 @@ DNAの配列でも、子が育つ環境でもない第三の要因、
 親が経験してきた環境を反映した印の情報が、  
 生物の社会進化の背景にあるようです。
 
-▼研究内容の詳細は京都大学プレスリリースへ▼  
+↓研究内容の詳細は京都大学プレスリリースへ↓  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2025-06-16"
    target="_blank"
    rel="noopener noreferrer">
@@ -328,7 +328,7 @@ DNAの配列でも、子が育つ環境でもない第三の要因、
 
 火を囲んで同じものを食べつつ語らうと  
 なぜか楽しくなる生き物なんです、ニンゲンは。
-<img src="/images/BBQ.jpg" style="width:70%; height:auto;">
+<img src="/images/BBQ.jpg" style="width:100%; height:auto;">
 
 ### 趣味
 
@@ -341,7 +341,10 @@ DNAの配列でも、子が育つ環境でもない第三の要因、
 
 シンプルに京都という地は、  
 四季折々、いろんな顔を楽しむことができます。
-<img src="/images/ajisai.jpg" style="width:44.5%; height:auto;"><img src="/images/ume.jpg" style="width:55.5%; height:auto;">
+
+<img src="/images/ajisai.jpg" style="width:100%; height:auto;">
+
+<img src="/images/ume.jpg" style="width:100%; height:auto;">
 
 <img src="/images/tera.jpg" style="width:100%; height:auto;">
 
