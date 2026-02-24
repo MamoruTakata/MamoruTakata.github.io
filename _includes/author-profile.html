@@ -23,10 +23,14 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-          <li>
-            <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
-            <a href="{{ author.uri }}" target="_blank" rel="noopener noreferrer">{{ author.location }}</a>
-          </li>
+        <li>
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+          {% if author.uri %}
+          <a href="{{ author.uri }}" target="_blank" rel="noopener noreferrer">{{ author.location }}</a>
+          {% else %}
+          {{ author.location }}
+          {% endif %}
+        </li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
