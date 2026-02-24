@@ -25,11 +25,7 @@
       {% if author.location %}
         <li>
           <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
-          {% if author.uri %}
-          <a href="{{ author.uri }}" target="_blank" rel="noopener noreferrer">{{ author.location }}</a>
-          {% else %}
-          {{ author.location }}
-          {% endif %}
+          {% if author.uri %}<a href="{{ author.uri }}" target="_blank" rel="noopener noreferrer">{{ author.location }}</a>{% else %}{{ author.location }}{% endif %}
         </li>
       {% endif %}
       {% if author.employer %}
