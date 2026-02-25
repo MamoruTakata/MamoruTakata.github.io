@@ -129,7 +129,8 @@ permalink: /japanese/
 「ごはんよー」と告げる声を聞いたかのように  
 幼虫たちは一斉に餌乞いを始めます。
 
-<img src="/images/provisioning_pheromone_1.png" style="width:100%; height:auto;">
+<img src="/images/provisioning_pheromone_1.png"
+     style="width:100%; max-width:200px; height:auto;">
 
 この合図は世界で初めて確認された  
 新しいタイプのフェロモンだったので、  
