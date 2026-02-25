@@ -129,17 +129,18 @@ permalink: /japanese/
 「ごはんよー」と告げる声を聞いたかのように  
 幼虫たちは一斉に餌乞いを始めます。
 
+<img src="/images/provisioning_pheromone_1.png" style="width:100%; height:auto;">
+
 この合図は世界で初めて確認された  
 新しいタイプのフェロモンだったので、  
 “給餌フェロモン” と名付けました。
 
-<img src="/images/provisioning_pheromone.png" style="width:100%; height:auto;">
-
-子どもが親を動かしているように見えて、  
-実はタイミングを握っていたのは親でした。
+<img src="/images/provisioning_pheromone_2.png" style="width:100%; height:auto;">
 
 昆虫の家族にも、  
-見えない“ごはんのベル”があったんですね。
+見えない“ごはんのベル”があり、  
+子どもが親を動かしているように見えて、  
+全ては親の手のひらの上、だったんですね。
 
 ▼詳細は京都大学プレスリリースへ▼  
 <a href="https://www.kyoto-u.ac.jp/ja/research-news/2019-09-12"
