@@ -133,8 +133,10 @@ permalink: /japanese/
 新しいタイプのフェロモンだったので、  
 “給餌フェロモン” と名付けました。
 
+<img src="/images/provisioning_pheromone.png" style="width:100%; height:auto;">
+
 子どもが親を動かしているように見えて、  
-実は親がタイミングを握っていた。
+実はタイミングを握っていたのは親でした。
 
 昆虫の家族にも、  
 見えない“ごはんのベル”があったんですね。
