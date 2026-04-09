@@ -6,5 +6,6 @@ excerpt: ''
 date: 2025-03-04
 venue: 'Molecular Ecology'
 paperurl: 'https://doi.org/10.1111/mec.17724'
+pdf_url: 'https://repository.kulib.kyoto-u.ac.jp/bitstreams/c943cf02-b860-4561-a1b7-d433a9269583/download'
 citation: 'Takahashi M., Konishi T., Yabe K., <b><u>Takata M.</u></b>, Matsuura K. (2025) <b><i>Molecular Ecology</i></b>  34: e17724.'
 ---
