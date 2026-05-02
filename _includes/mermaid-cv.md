@@ -23,6 +23,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Takata et al. (2026) Sci. Nat.                : crit, Takata et al. 2026, 2026-04-24, 2w
   Konishi et al. (2026) Proc. R. Soc. B         :       Konishi et al. 2026, 2026-01-02, 2w
   Eggert et al. (2026) Evolution                :       Eggert et al. 2026, 2026-1-20, 2w
   Yabe et al. (2026) J. Informetrics            :       Yabe et al. 2026, 2026-1-3, 2w
