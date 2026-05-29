@@ -23,12 +23,12 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Kamiyama et al. (2026) Insect. Soci.          :       Kamiyama et al. 2026, 2026-06-23, 2w
   Takata et al. (2026) Sci. Nat.                : crit, Takata et al. 2026, 2026-04-24, 2w
   Konishi et al. (2026) Proc. R. Soc. B         :       Konishi et al. 2026, 2026-03-04, 2w
   Eggert et al. (2026) Evolution                :       Eggert et al. 2026, 2026-1-20, 2w
   Noboru et al. (2026) Sci. Nat.                :       Noboru et al. 2026, 2026-1-8, 2w
   Yabe et al. (2026) J. Informetrics            :       Yabe et al. 2026, 2026-1-3, 2w
-  Kamiyama et al. (2025) Insect. Soci.          :       Kamiyama et al. 2025, 2025-08-31, 2w
   Takata et al. (2025) PNAS                     : crit, Takata et al. 2025, 2025-06-13, 2w
   Kamiyama et al. (2025) Insect Mol. Biol.      :       Kamiyama et al. 2025, 2025-05-11, 2w
   Okada et al. (2025) Arch. Virol.              :       Okada et al. 2025, 2025-04-16, 2w
