@@ -13,6 +13,7 @@ section Education
   B.S. @TUAT     : B.S., 2003-04-01, 2007-03-31
 
 section Funding
+  Research Development Program [ISHIZUE]        : active, grant_Ishizue, 2026-04-01, 2027-03-31
   JSPS KAKENHI (JP21K14863)                     : active, grant_young, 2021-04-01, 2026-03-31
   JSPS KAKENHI (JP18J01880)                     : active, grant_PD, 2018-04-01, 2021-03-31
   JSPS KAKENHI (JP17H06796)                     : active, grant_start, 2017-08-01, 2018-03-31
@@ -23,6 +24,7 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Yabe et al. (2026) Insect. Soci.              :       Yabe et al. 2026, 2026-06-29, 2w
   Kamiyama et al. (2026) Insect. Soci.          :       Kamiyama et al. 2026, 2026-06-23, 2w
   Takata et al. (2026) Sci. Nat.                : crit, Takata et al. 2026, 2026-04-24, 2w
   Konishi et al. (2026) Proc. R. Soc. B         :       Konishi et al. 2026, 2026-03-04, 2w
