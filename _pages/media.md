@@ -1,6 +1,6 @@
 ---
 title: "メディア関係の方へ"
-permalink: /japanese/
+permalink: /media/
 ---
 
 <a id="top"></a>
