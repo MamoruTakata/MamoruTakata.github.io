@@ -6,5 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "日本語ページ"
+  - title: "日本人の学生さんへ"
     url: /japanese/
+
+  - title: "メディア関係の方へ"
+    url: /media/
