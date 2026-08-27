@@ -21,7 +21,7 @@ permalink: /media/
 
 - 日本テレビ「[X秒後の新世界](https://www.ntv.co.jp/xbyougo/)」夏祭りに黒コーデで行きたくなる 2026年8月18日
 - テレビ東京「[バカリズムのちょっとバカりハカってみた！](https://www.tv-tokyo.co.jp/bakahaka/)」金魚すくい必勝法 2026年8月15日
-- 朝日新聞｜[金魚すくい日本一は京大の学者　上達のコツ「生物学と物理学の境界」](https://digital.asahi.com/articles/ASV6J3399V6JOXIE04NM.html?iref=pc_ss_date_article) 2026年6月26日
+- 朝日新聞　[金魚すくい日本一は京大の学者　上達のコツ「生物学と物理学の境界」](https://digital.asahi.com/articles/ASV6J3399V6JOXIE04NM.html?iref=pc_ss_date_article) 2026年6月26日
 - NHK Eテレ「[サイエンスZERO](https://www.web.nhk/tv/an/zero/pl/series-tep-XK5VKV7V98)」“社会性昆虫”大繁栄の真相 2026年5月24日
 - NHK 「MUSIC JAPAN」金魚で涼もう 2013年8月22日
 - テレビ東京「TVチャンピオン」 放送日不明
