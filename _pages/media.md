@@ -9,9 +9,7 @@ permalink: /media/
 
 出演・取材のご依頼は、下記までお問い合わせください。
 
-**[ご依頼フォーム](https://forms.gle/TnHpkBQisePzaeSG6)**
-
-電話は不在の場合が多々あります（075-753-6134）。
+**[ご依頼フォーム](https://forms.gle/TnHpkBQisePzaeSG6)**（24時間以内にお返事致します。）
 
 以下のような内容について、解説・紹介が可能です。
 
