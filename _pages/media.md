@@ -9,7 +9,7 @@ permalink: /media/
 
 出演・取材のご依頼は、下記までお問い合わせください。
 
-**[ご依頼フォーム](https://forms.gle/TnHpkBQisePzaeSG6)**（24時間以内にお返事致します。）
+<strong><a href="https://forms.gle/TnHpkBQisePzaeSG6" target="_blank" rel="noopener noreferrer">ご依頼フォーム</a></strong>（24時間以内にお返事致します。）
 
 以下のような内容について、解説・紹介が可能です。
 
