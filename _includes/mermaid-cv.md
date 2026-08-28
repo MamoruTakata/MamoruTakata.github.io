@@ -24,6 +24,8 @@ section Awards
   Poster Award                                  : crit, aw_1, 2012-11-24, 2w
 
 section Publications
+  Grubmüller et al. (2026) PNAS                 :       Grubmüller et al. 2026, 2026-08-26, 2w
+  Katsumi et al. (2026) Behav. Ecol. Sociobiol. :       Katsumi et al. 2026, 2026-08-15, 2w
   Yabe et al. (2026) Insect. Soci.              :       Yabe et al. 2026, 2026-06-29, 2w
   Kamiyama et al. (2026) Insect. Soci.          :       Kamiyama et al. 2026, 2026-06-23, 2w
   Takata et al. (2026) Sci. Nat.                : crit, Takata et al. 2026, 2026-04-24, 2w
